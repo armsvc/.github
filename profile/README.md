@@ -1,3 +1,3 @@
 Olá 👋
 
-Esse é o meu resitorio publico para compartilhamento de projetos
+Esse é o meu repositório publico para compartilhamento de projetos
